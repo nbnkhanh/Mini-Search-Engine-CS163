@@ -9,5 +9,5 @@ Team members: Nguyen Ba Nhat Khanh, Le Hoang Nam, Dinh Le Quoc Viet
 - Download the ZIP file for the repository
 - Unzip in your system
 - Create the executable file from a C++ compiler
-- Download the sample dataset of CS163 course: https://drive.google.com/open?id=10fVjH0Y_8flNnvyYXG0b6AKGEBi_UvmY
+- Download the sample dataset of CS163 course: http://tinyurl.com/y42e3voj
 - Put the executable file in the same folder as the dataset before running
