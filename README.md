@@ -5,6 +5,8 @@ Source code and written report (contains algorithms, methods, pseudocode, featur
 
 Team members: Nguyen Ba Nhat Khanh, Le Hoang Nam, Dinh Le Quoc Viet
 
+Received full score 10.0/10.0
+
 ## Build and Run
 - Download the ZIP file for the repository
 - Unzip in your system
