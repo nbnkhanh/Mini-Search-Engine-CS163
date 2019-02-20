@@ -19,7 +19,7 @@ Received full score 10.0/10.0
 ![alt text](https://user-images.githubusercontent.com/44111901/53069465-ad034e00-350e-11e9-976e-9874e919790d.png)
 apple OR samsung
 
-Queries/Operators supplied (very similar to Google Search):
+Queries/Operators supplied (very similar to Google Search, can combine different queries together):
 - AND
 - OR
 - Manchester –united
