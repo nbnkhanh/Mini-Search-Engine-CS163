@@ -3,8 +3,6 @@ A mini search engine (console) handles different types of query to search a coll
 
 Source code and written report (contains algorithms, methods, pseudocode, features...)
 
-Team members: Nguyen Ba Nhat Khanh, Le Hoang Nam, Dinh Le Quoc Viet
-
 Received full score 10.0/10.0
 
 ## Build and Run
