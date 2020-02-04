@@ -3,8 +3,6 @@ A mini search engine (console) handles different types of query to search a coll
 
 Source code and written report (contains algorithms, methods, pseudocode, features...)
 
-Received full score 10.0/10.0
-
 ## Build and Run
 - Download the ZIP file for the repository
 - Unzip in your system
